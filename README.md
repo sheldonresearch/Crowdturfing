@@ -1,6 +1,6 @@
 # README
 
-This is the source code and dataset of paper:
+This is the source code and dataset of the paper:
 
 Bo Liu, Xiangguo Sun et al. "Co-Detection of Crowdturﬁng Microblogs and Spammers in Online Social Networks"
 
